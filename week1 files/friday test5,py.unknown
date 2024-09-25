@@ -1,0 +1,3 @@
+text="....channi....uppal....channi...."
+r=text.strip('.channi')
+print(r)
